@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Send emails app </h1>
+    <p>Please fill the form below:</p>
+</div>
+
+<form method="post">
+    <div class="form-group">
+        <label  class="form-label">Subject</label>
+        <input type="text" name="subject"  class="form-control" />       
+    </div>
+    <div class="form-group">
+        <label class="form-label">Email</label>
+        <input type="email" name="email"  class="form-control">
+    </div>
+    <div class="form-group">
+    <label class="form-label">Message</label>
+        <textarea class="form-control" name="message" rows="4"></textarea>
+     </div>
+      <br />
+    <div class="form-group">
+    <input type="submit" class="btn btn-primary" value="Submit" />
+    </div>
+</form>
+
