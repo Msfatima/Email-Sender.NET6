@@ -146,12 +146,12 @@ _Below is an example of how you can instruct your audience on installing and set
    NuGet\Install-Package SendGrid.Extensions.DependencyInjection -Version 1.0.1
    ```
 4. Enter your SendGrid API and username in `appsettings.json`
-   ```js
+   ```json
    "AuthMessageSenderOptions": {
     "SendGridUser": "YourUserName",
     "SendGridKey": "YourAPIKey"
-  };
-   
+    }
+  
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
