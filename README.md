@@ -1,4 +1,3 @@
-# Email-Sender.NET6
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -82,9 +81,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!--## About The Project
 
-<!-->[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -271,11 +270,3 @@ Fatima Hamid - [@Linkein](https://www.linkedin.com/in/fatima-hamid-0a4259161/) -
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 -->
-
-
-![image](https://github.com/Msfatima/Email-Sender.NET6/assets/41681915/7cd3907d-b3ca-4066-be50-476f32addc79)
-
-
-
-https://github.com/Msfatima/Email-Sender.NET6/assets/41681915/536586c1-c32e-4e3a-a7be-d06c7480ac01
-
