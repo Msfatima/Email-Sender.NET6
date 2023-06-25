@@ -19,12 +19,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!--[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/fatima-hamid-0a4259161/]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/fatima-hamid-0a4259161/]-->
 
 
 
@@ -151,7 +151,7 @@ _Below is an example of how you can instruct your audience on installing and set
    "AuthMessageSenderOptions": {
     "SendGridUser": "YourUserName",
     "SendGridKey": "YourAPIKey"
-  },
+  };
    
    ```
 
@@ -241,7 +241,7 @@ Fatima Hamid - [@Linkein](https://www.linkedin.com/in/fatima-hamid-0a4259161/) -
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!--[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
@@ -270,6 +270,7 @@ Fatima Hamid - [@Linkein](https://www.linkedin.com/in/fatima-hamid-0a4259161/) -
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+-->
 
 
 ![image](https://github.com/Msfatima/Email-Sender.NET6/assets/41681915/7cd3907d-b3ca-4066-be50-476f32addc79)
